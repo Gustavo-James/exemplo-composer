@@ -1,0 +1,16 @@
+{
+    "name": "james/aula13ex",
+    "description": "Exerc\u0000cio da aula 13",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gustavo da Silva James",
+            "email": "gustavo.s.james@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "cocur/slugify": "9999999-dev"
+    }
+}
